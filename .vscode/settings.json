@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/home/douglas/.cache/pypoetry/virtualenvs/flask-example-M0ZIE0zq-py3.9/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.formatting.provider": "black"
+}
